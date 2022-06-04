@@ -1,2 +1,2 @@
-# desafio-netflix
+# desafio_netflix
 Desafio de recriação da página inicial de um site de streaming
